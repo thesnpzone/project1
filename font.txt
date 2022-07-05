@@ -1,0 +1,23 @@
+used font only:-
+
+font-family: 'Vampiro One', cursive;
+
+font-family: 'Anton', sans-serif;
+
+font-family: 'Carter One', cursive;
+
+font-family: 'Syne Mono', monospace;
+
+font-family: 'Syne Tactile', cursive;
+
+font-family: 'Henny Penny', cursive;
+
+font-family: 'Lobster', cursive;
+
+font-family: 'Press Start 2P', cursive;
+
+font-family: 'Turret Road', cursive;
+
+font-family: 'Oswald', sans-serif;
+
+
